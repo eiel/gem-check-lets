@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '3.2.17'
+gem 'rails', '3.2.18'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
@@ -106,7 +106,7 @@ gem 'kaminari'
 gem 'factory_girl', '< 4.3'
 gem 'factory_girl_rails'
 
-gem "squeel"
+gem "squeel", '> 1.1'
 
 gem 'rack-cache', :require => 'rack/cache'
 gem 'dragonfly', '~>0.9.11'
